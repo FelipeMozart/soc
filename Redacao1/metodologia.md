@@ -1,0 +1,3 @@
+# Metodologia
+
+Quanto  à  classificação  deste  estudo  têm-se  as  seguintes caracterizações:   pesquisa   do   tipo   exploratória   que   busca descrever  e  caracterizara  natureza  dos  elementos  que  se deseja   conhecer,   no   caso   desta pesquisa   os   sistemas taxonomia, tesauro e ontologia; e pesquisa do tipo bibliográfica que  busca  explicar  um  problema  utilizando  o  conhecimento disponível  a  partir  das  teorias  publicadas  (KÖCHE,  2011,  p. 122,126)
